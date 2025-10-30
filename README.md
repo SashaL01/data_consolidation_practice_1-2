@@ -30,10 +30,10 @@
 
 Каждая строка таблицы <tr> это одна компания и содержит несколько ячеек <td>, внутри каждой из которых хранится отдельный показатель:
 Название компании — текст внутри элемента <span class="block overflow-hidden text-ellipsis whitespace-nowrap>; <br>
-Последняя цена — в <td> с блоке с классом <td class = datatable-v2_cell__IwP1U dynamic-table-v2_col-other__zNU4A text-right rtl:text-right>;<br> 
-Максимальная и минимальная цена — в блоке с классом <td class = datatable-v2_cell__IwP1U dynamic-table-v2_col-other__zNU4A text-right rtl:text-right>;<br> 
-Изменение  — в блоке с классом <td class = datatable-v2_cell__IwP1U datatable-v2_cell--up__lVyET datatable-v2_cell--bold__cXQUV dynamic-table-v2_col-other__zNU4A text-right font-bold rtl:text-right>;<br> 
-Объём торгов — в элементе <td data-test=volume-cell>. <br>
+Последняя цена — в <td> с блоке с классом <td class = "datatable-v2_cell__IwP1U dynamic-table-v2_col-other__zNU4A text-right rtl:text-right>;<br> 
+Максимальная и минимальная цена — в блоке с классом <td class = "datatable-v2_cell__IwP1U dynamic-table-v2_col-other__zNU4A text-right rtl:text-right>;<br> 
+Изменение  — в блоке с классом <td class = "datatable-v2_cell__IwP1U datatable-v2_cell--up__lVyET datatable-v2_cell--bold__cXQUV dynamic-table-v2_col-other__zNU4A text-right font-bold rtl:text-right>;<br> 
+Объём торгов — в элементе <td data-test= "volume-cell>. <br>
 
 Структура сайта
 <img width="1885" height="352" alt="image" src="https://github.com/user-attachments/assets/470c1f29-82a4-4b38-84ba-25e9ae3bc5f1" />
